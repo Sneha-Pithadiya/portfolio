@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /portfolio_1/
+RewriteRule ^main$ main.html [L]
+RewriteRule ^style$ style.css [L]
